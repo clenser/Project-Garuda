@@ -1,7 +1,8 @@
 # Real-Time Video Processing and Robotic Control using MediaPipe, OpenCV, Firebase, and Arduino
+# This Project(research work) is copyrghted by @gov of india
 
 This project is a comprehensive system that integrates real-time video processing, emotion analysis, face recognition, robotic control, and cloud storage. The system uses various technologies and libraries, including MediaPipe, OpenCV, DeepFace, Firebase, PyFirmata2, and more.
-
+#This Project(research work) is copyrghted by @gov of india
 ## Table of Contents
 
 - [Features](#features)
